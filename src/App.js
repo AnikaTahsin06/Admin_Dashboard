@@ -44,6 +44,13 @@ function App() {
               <Route path="/" element="ECommerce" />
 
               {/* Pages */}
+              <Route path="/orders1" element="Pages" />
+              <Route path="/orders2" element="Pages" />
+              <Route path="/orders3" element="Pages" />
+              <Route path="/orders4" element="Pages" />
+              <Route path="/orders5" element="Pages" />
+              <Route path="/orders7" element="Pages" />
+              <Route path="/orders7" element="Pages" />
             </Routes>
           </div>
         </div>
