@@ -39,14 +39,11 @@ function App() {
           </div>
           <div>
             <Routes>
+              {/* Dashboard */}
               <Route path="/" element="ECommerce" />
               <Route path="/" element="ECommerce" />
-              <Route path="/" element="ECommerce" />
-              <Route path="/" element="ECommerce" />
-              <Route path="/" element="ECommerce" />
-              <Route path="/" element="ECommerce" />
-              <Route path="/" element="ECommerce" />
-              <Route path="/" element="ECommerce" />
+
+              {/* Pages */}
             </Routes>
           </div>
         </div>
