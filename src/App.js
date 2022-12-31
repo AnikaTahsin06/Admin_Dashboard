@@ -38,7 +38,16 @@ function App() {
             </div>
           </div>
           <div>
-            <Routes></Routes>
+            <Routes>
+              <Route path="/" element="ECommerce" />
+              <Route path="/" element="ECommerce" />
+              <Route path="/" element="ECommerce" />
+              <Route path="/" element="ECommerce" />
+              <Route path="/" element="ECommerce" />
+              <Route path="/" element="ECommerce" />
+              <Route path="/" element="ECommerce" />
+              <Route path="/" element="ECommerce" />
+            </Routes>
           </div>
         </div>
       </BrowserRouter>
