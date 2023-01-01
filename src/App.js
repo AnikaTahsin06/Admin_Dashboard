@@ -41,16 +41,20 @@ function App() {
             <Routes>
               {/* Dashboard */}
               <Route path="/" element="ECommerce" />
-              <Route path="/" element="ECommerce" />
+              <Route path="/1" element="ECommerce" />
+              <Route path="/2" element="ECommerce" />
+              <Route path="/3" element="ECommerce" />
 
               {/* Pages1 */}
               <Route path="/orders1" element="Pages" />
               <Route path="/orders2" element="Pages" />
               <Route path="/orders3" element="Pages" />
+              <Route path="/orders3" element="Pages" />
 
               {/* Pages2 */}
               <Route path="/orders21" element="Pages" />
               <Route path="/orders22" element="Pages" />
+              <Route path="/orders23" element="Pages" />
               <Route path="/orders23" element="Pages" />
             </Routes>
           </div>
