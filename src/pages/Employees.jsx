@@ -1,11 +1,13 @@
 import React from "react";
 
 const Employees = () => {
-  return <div>Employee</div>;
-  return <div>Employee</div>;
-  return <div>Employee</div>;
-  return <div>Employee</div>;
-  return <div>Employee</div>;
+  return <div>
+    <div>Employee</div>
+   <div>Employee</div>
+   <div>Employee</div>
+   <div>Employee</div>
+   <div>Employee</div>
+  </div>;
 };
 
 export default Employees;
